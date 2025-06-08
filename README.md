@@ -1,2 +1,2 @@
-# Landing-Pake-Bookstore
+# Landing-Page-Bookstore
 Website Landing Page Sederhana
